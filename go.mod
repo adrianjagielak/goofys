@@ -1,4 +1,4 @@
-module github.com/kahing/goofys
+module github.com/adrianjagielak/goofys
 
 go 1.14
 
